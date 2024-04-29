@@ -7,8 +7,5 @@ Michael Itindi
 # How to run
  npm run start
 
-# How to test
-
- npm test
 
 
